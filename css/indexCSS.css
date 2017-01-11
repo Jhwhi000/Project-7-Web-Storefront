@@ -1,0 +1,38 @@
+body {
+    background-color: #66d5b3;
+}
+#logo {
+    font-size: 50px;
+    color: white;
+    margin-left: 570px;
+}
+button {
+    width: 281px;
+    height: 100px;
+    border: 10px ridge white;
+    font-size: 30px;
+    margin-top: 10px;
+    /*margin-top: 220px;*/
+}
+#news {
+    float: left;
+    width: 420px;
+    height: 990px;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+}
+#events {
+    float: right;
+    width: 420px;
+    height: 990px;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+}
+button:hover {
+    background-color:white;
+    color: black;
+    border-color: darkgrey;
+    transition-duration: .7s;
+}
