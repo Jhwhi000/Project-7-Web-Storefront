@@ -1,0 +1,15 @@
+label, input {
+    display: block;
+}
+
+label {
+    margin-bottom: 7px;
+}
+
+button{
+    margin-top: 10px;
+}
+
+fieldset{
+    border:solid black;
+}
