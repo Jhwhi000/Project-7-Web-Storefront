@@ -21,6 +21,10 @@ button {
     background-color: white;
     color: black;
     font-size: 30px;
+    border-top: 6px grey solid;
+    border-right: 6px grey solid;
+    border-bottom: none;
+    border-left: none;
 }
 #events {
     float: right;
@@ -35,4 +39,8 @@ button:hover {
     color: black;
     border-color: darkgrey;
     transition-duration: .7s;
+}
+#h1 {
+    text-decoration: underline overline;
+    font-size: 100px;
 }

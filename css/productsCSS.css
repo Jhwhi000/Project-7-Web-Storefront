@@ -1,0 +1,18 @@
+body {
+    background-color: #66d5b3;
+}
+#logo {
+    font-size: 50px;
+    color: white;
+    margin-left: 570px;
+}
+h1 {
+    text-decoration: underline;
+}
+fieldset {
+    margin-right: 300px;
+    margin-left: 300px;
+    border: 10px ridge white;
+    color: white;
+    background-color: black;
+}
