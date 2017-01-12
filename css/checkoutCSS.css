@@ -13,3 +13,11 @@ button{
 fieldset{
     border:solid black;
 }
+body {
+    background-color: #66d5b3 ;
+}
+#logo {
+    font-size: 50px;
+    color: white;
+    margin-left: 570px;
+}

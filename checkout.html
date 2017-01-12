@@ -7,6 +7,16 @@
         <link rel="stylesheet" href="css/checkoutCSS.css">
 </head>
 <body>
+
+<div>
+    <div id="logo">Sugar Daddy's</div>
+    <center>
+        <img src="img/logo.png" width="400" height="350">
+    </center>
+    <div id="logo">Candy Basket</div>
+</div>
+
+
 <fieldset>
     <div class="two"><label>First Name: </label><input type="text"></div>
     <div class="two"><label>Last Name: </label><input type="text"></div>
@@ -26,6 +36,7 @@
     <div class="two"><label>Card CVV: </label><input type="text" ></div>
     <div class="two"><label>Expiration Date </label></div>
     <div><label>Month:</label>  <select class="form-control" name="">
+
         <option value="">Month</option>
         <option value="01">01</option>
         <option value="02">02</option>
@@ -39,8 +50,11 @@
         <option value="10">10</option>
         <option value="11">11</option>
         <option value="12">12</option>
+
     </select>
+
         <label>Year:</label>           <select class="form-control" name="">
+
             <option value="">Year</option>
             <option value="2018">2018</option>
             <option value="2019">2019</option>
@@ -54,11 +68,11 @@
             <option value="2024">2027</option>
             <option value="2025">2028</option>
         </select></div>
-    <button>Place Order</button>
-
-
-
+    <button onclick="reset">Place Order</button>
 
 </fieldset>
 </body>
+<script>
+src = "checkoutJS.js"
+</script>
 </html>
