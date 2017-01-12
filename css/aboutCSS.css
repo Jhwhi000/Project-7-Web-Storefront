@@ -8,8 +8,30 @@ p {
 .pFieldset {
     margin-left: 150px;
     margin-right: 150px;
+    background-color: black;
+    color: white;
+    border-width: 10px;
+    border-color: white;
 }
 .tableFieldset {
     margin-left: 480px;
     margin-right: 480px;
+    background-color: black;
+    color: white;
+    border-width: 10px;
+    border-color: white;
+}
+body {
+    background-color: #66d5b3 ;
+}
+#logo {
+    font-size: 50px;
+    color: white;
+    margin-left: 570px;
+}
+h1 {
+    color: white;
+}
+u {
+    color: white;
 }
