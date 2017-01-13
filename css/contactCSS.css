@@ -1,0 +1,22 @@
+fieldset {
+    margin-left: 230px;
+    margin-right: 230px;
+    border-width: 10px;
+    border-color: white;
+    color: white;
+    background-color: black;
+}
+body {
+    background-color: #66d5b3 ;
+}
+#logo {
+    font-size: 50px;
+    color: white;
+    margin-left: 570px;
+}
+h1 {
+    color: white;
+}
+u {
+    color: white;
+}
